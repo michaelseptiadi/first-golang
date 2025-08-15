@@ -1,5 +1,5 @@
 package first_golang
 
-func sayHello() string {
+func SayHello() string {
 	return "Hello World!"
 }
