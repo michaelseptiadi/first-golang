@@ -1,4 +1,4 @@
-package go_say_hello
+package first_golang
 
 func SayHello() string {
 	return "Hello"
